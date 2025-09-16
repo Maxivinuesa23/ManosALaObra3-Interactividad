@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/manosalaobra3-interactividad/',
+  base: 'https://maxivinuesa23.github.io/ManosALaObra3-Interactividad/',
 })
