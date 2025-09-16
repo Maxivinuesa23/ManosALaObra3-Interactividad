@@ -14,7 +14,7 @@ Se pide seguir con el proyecto anterior donde aplicamos el diseño atomico y uti
 
 Máximo Vinuesa - [@Linkedin](https://www.linkedin.com/in/maximo-vinuesa/) - [@Gmail](maxivinuesa23@gmail.com)
 
-Enlace del Proyecto: ()
+Enlace del Proyecto: (https://github.com/Maxivinuesa23/ManosALaObra3-Interactividad)
 
 
-![Versión](https://img.shields.io/badge/version-0.0.1-blue.svg)
+![Versión](https://img.shields.io/badge/version-1.0.0-blue.svg)
