@@ -6,12 +6,14 @@ import { useState } from 'react';
 export default function TaskForm({task, onChange, onSubmit}){
     const [taskText, setTaskText] = useState("")
     return (
-        <div>
+        <div className = "agregarTarea">
             <Input
-                value ={taskText}
-                onChange = {e => setTaskText(e.target.value)}
+                className="inputTarea"
+                value={taskText}
+                onChange={e => setTaskText(e.target.value)}
             />
             <Button
+                className = "botonAgregar"
                 type = "button"
                 onClick={() => {
                     onSubmit(taskText);

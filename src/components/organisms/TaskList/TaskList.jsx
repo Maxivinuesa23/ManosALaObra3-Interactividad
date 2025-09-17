@@ -2,8 +2,13 @@ import React from "react";
 import TaskItem from "../../molecules/TaskItem/TaskItem";
 
 export default function({tasks, onDelete, onToggle}){
+
+    if (tasks.length === 0) {
+        return null;
+    }
+    
     return (
-        <ul>
+        <div className="listadoTareas">
             {tasks.map(task => (
                 <TaskItem
                     key={task.id}
@@ -12,6 +17,6 @@ export default function({tasks, onDelete, onToggle}){
                     onDelete={onDelete}
                     />
             ))}
-        </ul>
+        </div>
     )
 }

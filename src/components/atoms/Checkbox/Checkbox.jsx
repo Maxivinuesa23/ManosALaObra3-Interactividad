@@ -1,7 +1,7 @@
 import React from "react";
 
-export default function Checkbox({checked, onChange, ...props}){
+export default function Checkbox({checked, onChange, className, ...props}){
     return (
-        <input type="checkbox" checked={checked} onChange={onChange} {...props} />
+        <input type="checkbox" checked={checked} onChange={onChange} className={className} {...props} />
     )
 }
