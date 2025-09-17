@@ -17,4 +17,4 @@ Máximo Vinuesa - [@Linkedin](https://www.linkedin.com/in/maximo-vinuesa/) - [@G
 Enlace del Proyecto: (https://github.com/Maxivinuesa23/ManosALaObra3-Interactividad)
 
 
-![Versión](https://img.shields.io/badge/version-1.1.2-blue.svg)
+![Versión](https://img.shields.io/badge/version-1.2.0-blue.svg)
